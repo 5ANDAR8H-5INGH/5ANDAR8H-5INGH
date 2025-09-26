@@ -42,9 +42,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarbh-singh296245&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sandarbh-singh296245&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandarbh-singh296245&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandarbh-singh296245&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=21600" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=sandarbh-singh296245&show_icons=true&locale=en&theme=tokyonight&cache_seconds=21600" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandarbh-singh296245&theme=tokyonight&cache_seconds=21600" alt="GitHub Streak" />  <!-- Note: streak-stats may not officially support cache_seconds, but it can help if it's proxied through similar systems -->
 </p>
 
 ---
