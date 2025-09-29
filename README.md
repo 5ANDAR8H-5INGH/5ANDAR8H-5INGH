@@ -44,7 +44,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5ANDAR8H-5INGH&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=5ANDAR8H-5INGH&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandarbh-singh296245&theme=tokyonight" alt="GitHub Streak" />  <!-- Note: streak-stats may not officially support cache_seconds, but it can help if it's proxied through similar systems -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=5ANDAR8H-5INGH&theme=tokyonight" alt="GitHub Streak" />  <!-- Note: streak-stats may not officially support cache_seconds, but it can help if it's proxied through similar systems -->
 </p>
 
 ---
