@@ -13,7 +13,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=sandarbh-singh296245&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=5ANDAR8H-5INGH&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
