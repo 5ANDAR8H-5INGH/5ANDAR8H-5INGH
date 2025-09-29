@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandarbh-singh296245&no-frame=true&title=Experience,Stars,Commits,PullRequest,Repositories&margin-w=5" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=5ANDAR8H-5INGH&no-frame=true&title=Experience,Stars,Commits,PullRequest,Repositories&margin-w=5" alt="Trophies"/>
 </p>
 
 ---
