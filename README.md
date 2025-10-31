@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing **Bachelor's in Data Science**
 - 🔍 Exploring **Machine Learning, Deep Learning, and MLOps**
-- 🛠️ Building skills in **Data Analytics & Backend Development**
+- 🛠️ Building skills in **Data Science**
 - ⚡ Fun fact: I sleep between 8 to 10 hours a day... just kidding or not..
 
 ---
