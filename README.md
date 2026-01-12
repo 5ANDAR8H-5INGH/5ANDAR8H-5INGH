@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=5ANDAR8H-5INGH&no-frame=true&title=Experience,Stars,Commits,PullRequest,Repositories&margin-w=5&v=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=5ANDAR8H-5INGH&no-frame=true&title=Experience,Stars,Commits,PullRequest,Repositories&margin-w=5&cache_seconds=1800" alt="Trophies"/>
 </p>
 
 ---
@@ -42,10 +42,21 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=5ANDAR8H-5INGH&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=5ANDAR8H-5INGH&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=5ANDAR8H-5INGH&theme=tokyonight" alt="GitHub Streak" />  <!-- Note: streak-stats may not officially support cache_seconds, but it can help if it's proxied through similar systems -->
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5ANDAR8H-5INGH&show_icons=true&locale=en&layout=compact&cache_seconds=1800" 
+       alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=5ANDAR8H-5INGH&show_icons=true&locale=en&cache_seconds=1800" 
+       alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=5ANDAR8H-5INGH" 
+       alt="GitHub Streak" />
+
 </p>
+
 
 ---
 
