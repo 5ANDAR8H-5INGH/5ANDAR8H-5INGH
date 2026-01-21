@@ -13,13 +13,13 @@
 
 ### 🏆 GitHub Trophies
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=5ANDAR8H-5INGH&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=5ANDAR8H-5INGH&label=Profile%20views&color=7b2cff&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=5ANDAR8H-5INGH&theme=gruvbox&no-frame=true&margin-w=5" alt="Trophies" />
-
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=5ANDAR8H-5INGH&no-frame=false&title=Experience,Stars,Commits,PullRequest,Repositories&margin-w=10&column=6" alt="Trophies" />
 </p>
+
 
 ---
 
@@ -45,20 +45,12 @@
 <p align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=5ANDAR8H-5INGH&layout=compact" 
-       alt="Top Languages" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-stats-alpha.vercel.app/api?username=5ANDAR8H-5INGH&cc=000&tc=fff&ic=fff&bc=000" 
-       alt="GitHub Stats" />
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=5ANDAR8H-5INGH&theme=dark&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5ANDAR8H-5INGH&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Top Languages" />   <img src="https://github-readme-stats.vercel.app/api?username=5ANDAR8H-5INGH&show_icons=true&locale=en&theme=tokyonight&hide_border=true" 
+       alt="GitHub Stats" />       <img src="https://streak-stats.demolab.com?user=5ANDAR8H-5INGH&theme=tokyonight&hide_border=true" 
        alt="GitHub Streak" />
 
 </p>
-
-
 
 ---
 
