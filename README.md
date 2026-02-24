@@ -44,11 +44,8 @@
 ### 📊 GitHub Stats
 <p align="center">
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5ANDAR8H-5INGH&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="Top Languages" />   <img src="https://github-readme-stats.vercel.app/api?username=5ANDAR8H-5INGH&show_icons=true&locale=en&theme=tokyonight&hide_border=true" 
-       alt="GitHub Stats" />       <img src="https://streak-stats.demolab.com?user=5ANDAR8H-5INGH&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com?user=5ANDAR8H-5INGH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </p>
 
