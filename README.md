@@ -62,8 +62,3 @@
 </p>
 
 ---
-
-<h3 align="center">🗡️ Zoro Mode Activated 🗡️</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFiYXVvbnhxaDNlNXFnZWQ1ODVsZGNraWZjNnowdXhseGdtcHoycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tocXevr8ybWxi/giphy.gif" alt="Zoro GIF" width="300"/>
-</p>
