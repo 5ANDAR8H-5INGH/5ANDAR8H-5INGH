@@ -4,9 +4,9 @@
 ---
 
 ### About Me
-- 🎓 Currently pursuing **Bachelor's in Data Science**
-- 🔍 Exploring **Machine Learning, Deep Learning, and MLOps**
-- 🛠️ Building skills in **Data Science**
+- Currently pursuing **Bachelor's in Data Science**
+- Exploring **Machine Learning, Deep Learning, and MLOps**
+- Building skills in **Data Science**
 
 ---
 
