@@ -51,9 +51,9 @@
 ---
 
 ### Connect with Me
-<p align="center"><a href="https://linkedin.com/in/sandarbh-singh-91972929b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
+<p align="center"><a href="https://linkedin.com/in/sandarbh-singh-91972929b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> </p>
   
-  <a href="https://kaggle.com/c229sandarbhsingh" target="blank">
+<p align="center"><a href="https://kaggle.com/c229sandarbhsingh" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
