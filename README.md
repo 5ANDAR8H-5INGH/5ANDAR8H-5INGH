@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🎓 Currently pursuing **Bachelor's in Data Science**
 - 🔍 Exploring **Machine Learning, Deep Learning, and MLOps**
 - 🛠️ Building skills in **Data Science**
@@ -22,7 +22,7 @@
 
 ---
 
-### 🔧 Languages & Tools
+### Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
 
 
