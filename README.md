@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sandarbh Singh</h1>
+<h1 align="center">Hi , I'm Sandarbh</h1>
 <h3 align="center">Pursuing Bachelor's in Data Science | Passionate about AI, ML & Analytics</h3>
 
 ---
